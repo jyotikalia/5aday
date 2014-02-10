@@ -55,3 +55,18 @@ Can we then subdivide into mental and physical well-being
 Do individuals that reduce to 5-a-day see a similar trend? Is this similar to the control who has <5-a-day?
 
 Do individuals that increase to 5-a-day see a similar trend? Is this similar to the control who has >5-a-day?
+
+
+links
+
+
+http://en.wikipedia.org/wiki/Bootstrapping
+
+
+http://www.r-project.org/
+
+http://brew.sh/
+
+https://github.com/
+
+
