@@ -1,7 +1,15 @@
-# Rscript covering the modelling for 5 a day nutrition project
-# read in the data
-
-read.csv()
-
-# load in the needed libraries
-require()
+# Rscript covering the modelling for 5 a day nutrition project                                                                                                                                                       
+# read in the data                                                                                                                                                                                                   
+                                                                                                                                                                                                                     
+read.csv()                                                                                                                                                                                                           
+                                                                                                                                                                                                                     
+# load in the needed libraries                                                                                                                                                                                       
+require_dependencies <- function(dependencies==c('MASS') ){                                                                                                                                                          
+    options(repos=structure(c(CRAN="http://cran.rstudio.com/")))                                                                                                                                                     
+    lapply(dependencies , function(w) { require(pkg) || install.packages(pkg) ; require(pkg)} )                                                                                                                      
+}                                                                                                                                                                                                                    
+                                                                                                                                                                                                                     
+}                                                                                                                                                                                                                    
+                                                                                                                                                                                                                     
+                                                                                                                                                                                                                     
+             
